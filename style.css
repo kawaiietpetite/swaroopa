@@ -22,7 +22,7 @@ header {
 }
 
 header .logo {
-    height: 30px; /* Set to a smaller height */
+    height: 35px; /* Set to a smaller height */
     width: auto;
     margin-right: 1em;
     vertical-align: middle;
